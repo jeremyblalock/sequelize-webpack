@@ -1,7 +1,7 @@
 {
   "name": "sequelize-webpack",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "6.5.0",
+  "version": "6.5.1",
   "maintainers": [
     "Jeremy Blalock <jeremy@jeremyblalock.com>"
   ],
@@ -20,6 +20,7 @@
   },
   "files": [
     "lib",
+    "postgres.js",
     "types/index.d.ts",
     "types/lib",
     "types/type-helpers"
