@@ -1,23 +1,18 @@
 {
-  "name": "sequelize",
+  "name": "sequelize-webpack",
   "description": "Multi dialect ORM for Node.JS",
-  "version": "0.0.0-development",
+  "version": "6.5.0",
   "maintainers": [
-    "Sascha Depold <sascha@depold.com>",
-    "Jan Aagaard Meier <janzeh@gmail.com>",
-    "Daniel Durante <me@danieldurante.com>",
-    "Mick Hansen <mick.kasper.hansen@gmail.com>",
-    "Sushant Dhiman <sushantdhiman@outlook.com>",
-    "Pedro Augusto de Paula Barbosa <papb1996@gmail.com>"
+    "Jeremy Blalock <jeremy@jeremyblalock.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "https://github.com/jeremyblalock/sequelize-webpack.git"
   },
   "bugs": {
-    "url": "https://github.com/sequelize/sequelize/issues"
+    "url": "https://github.com/jeremyblalock/sequelize-webpack/issues"
   },
-  "homepage": "https://sequelize.org/",
+  "homepage": "https://github.com/jeremyblalock/sequelize-webpack",
   "main": "index.js",
   "types": "types",
   "engines": {
